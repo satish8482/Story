@@ -1,2 +1,6 @@
 
+<<<<<<< branch_one
+branch changes 
+=======
 master changes
+>>>>>>> master
